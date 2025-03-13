@@ -23,16 +23,16 @@ jobs:
           echo "Calculated age is $AGE"
           echo "age=$AGE" >> $GITHUB_OUTPUT
 
-      - name: Update Readme.md with current age
+      - name: Update README.md with current age
         run: |
           AGE=${{ steps.calculate_age.outputs.age }}
-          sed -i "s/My Age: .*/My Age: $AGE/" Readme.md
+          sed -i "s/My Age: .*/My Age: $AGE/" README.md
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add Readme.md
+          git add README.md
           if ! git diff --cached --quiet; then
             git commit -m "Update age to ${{ steps.calculate_age.outputs.age }}"
             git push
