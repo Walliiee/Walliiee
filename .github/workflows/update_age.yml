@@ -34,8 +34,9 @@ jobs:
 
       - name: Update README.md
         run: |
-          AGE=${{ steps.calc.outputs.age }}
-          sed -i "s/^My Age:.*/My Age: $AGE/" README.md
+          AGE="${{ steps.calc.outputs.age }}"
+          replacement="My Age: ${AGE}"
+          sed -i "s/^My Age:.*/${replacement}/" README.md
 
       - name: Commit and Push Changes
         run: |
