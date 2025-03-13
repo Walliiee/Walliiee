@@ -8,6 +8,8 @@ Prior to december 2024, I hadn't built anything and only had a foundational know
 Now I build stuff and I learn every darn day - and it's exactly how I want it to be.
 
 ## ✨ About Me
+I am ![Age](https://img.shields.io/badge/dynamic/json?color=green&label=My%20Age&query=age&url=https://age.shields.io/1993-10-04) or am I?
+
 I'm a passionate [Your Role, e.g., "software developer", "data scientist", "open source enthusiast"] with a strong interest in [Your Interests, e.g., "web development", "machine learning", "cybersecurity"]. I love creating innovative solutions and collaborating on exciting projects. When I'm not coding, you'll find me [a fun fact or hobby, e.g., "exploring new technologies", "blogging about tech", or "playing guitar"].
 
 ## 🔧 Languages & Tools
