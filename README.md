@@ -19,11 +19,15 @@ My Age: 31 years, 7 months, 27 days, 1031 minutes or is it really??
 - When I start something I go all in. I listen, read and do until I understand and then I keep iterating on that.
 
 ## 🔧 Languages & Tools
-- **Languages:** Mostly ![Python](https://img.shields.io/badge/Python-3.9%2B-blue), a bit of js and css. Also R but really no thank you...
-- **Frameworks & Libraries:** FE: ![React](https://img.shields.io/badge/React-17.0.2-blue) most, bit of Bootstrap. BE: Most FastAPI, a bit of Flask
-- **Tools:** Docker, Jupyter Notebook
-- **IDE:** Cursor & VSC
-- **Other Interests:** [e.g., DevOps, Machine Learning, etc.]
+- **Languages:** Mostly ![Python](https://img.shields.io/badge/Python-3.9%2B-blue), a bit of ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)   and ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white). Also ![R](https://img.shields.io/badge/R-4.0.5-blue?style=flat&logo=R) but really no thank you...
+- **Frameworks & Libraries:** FE: ![React](https://img.shields.io/badge/React-17.0.2-blue) most, bit of ![Bootstrap](https://img.shields.io/badge/Bootstrap-v5-blue?style=flat&logo=bootstrap). Most ![FastAPI](https://img.shields.io/badge/FastAPI-0.70.0-green?style=flat&logo=fastapi), a bit of ![Flask](https://img.shields.io/badge/Flask-2.0-lightgrey?style=flat&logo=flask)
+- **Tools:** ![Docker](https://img.shields.io/badge/Docker-20.10.8-blue?style=flat&logo=docker), ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter)
+- **IDE:** ![Cursor](https://img.shields.io/badge/Cursor-IDE-ff69b4?style=flat) & ![VS Code](https://img.shields.io/badge/VS_Code-1.60.0-blue?style=flat&logo=visual-studio-code)
+- **Other Interests:** Staying healthy in mind and body. Football, American Football most but other sports have a wee bit of interest as well. GenAI because damn, can we make some awesome things happen!
+- **80/20 Principle:** Most things in life you don't have to master more than 80% and you can do it with 20% of the effort. Pick one MAX two things to fully focus on but the rest should be 80/20. For me that goes for making great coffee and sour dough, the rest is only for the margins and for specialists.
+
+> “Master of one, Jack of many.”  
+> – *ME*
 
 ## 🚀 Projects
 - **Markets Models**
