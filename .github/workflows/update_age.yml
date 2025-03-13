@@ -2,53 +2,29 @@ name: Update Age
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight UTC
-  workflow_dispatch:     # Allows manual triggering
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-age:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Calculate Age
-        id: calculate_age
+        id: calc
         run: |
-          # Set your birthdate (YYYY-MM-DD)
           BIRTHDAY="1993-07-16"
-          # Get current time in seconds since epoch
           NOW=$(date +%s)
-          # Convert birthday to seconds since epoch
           BIRTH=$(date -d "$BIRTHDAY" +%s)
-          # Approximate number of seconds in a year (365.25 days)
           SECONDS_IN_YEAR=31557600
-          # Calculate age in whole years
           AGE=$(echo "($NOW - $BIRTH) / $SECONDS_IN_YEAR" | bc)
-          echo "Calculated age is $AGE"
-          # Set the output using the new GitHub Actions method:
           echo "age=$AGE" >> $GITHUB_OUTPUT
 
-      - name: Check if README.md exists
+      - name: Update README.md
         run: |
-          if [ -f README.md ]; then
-            echo "README.md found."
-          else
-            echo "ERROR: README.md not found!"
-            exit 1
-          fi
-
-      - name: Debug - Show current README.md
-        run: cat README.md
-
-      - name: Update README.md with current age
-        run: |
-          AGE=${{ steps.calculate_age.outputs.age }}
-          echo "Updating README.md with age: $AGE"
-          # Use a regex anchored at the start of the line for a precise match.
+          AGE=${{ steps.calc.outputs.age }}
           sed -i "s/^My Age:.*/My Age: $AGE/" README.md
-          echo "After update, README.md is:"
-          cat README.md
 
       - name: Commit and Push Changes
         run: |
@@ -56,7 +32,7 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add README.md
           if ! git diff --cached --quiet; then
-            git commit -m "Update age to ${{ steps.calculate_age.outputs.age }}"
+            git commit -m "Update age to ${{ steps.calc.outputs.age }}"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
           else
             echo "No changes to commit"
