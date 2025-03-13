@@ -2,8 +2,8 @@ name: Update Age
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:     # Allows manual triggering
 
 jobs:
   update-age:
@@ -11,15 +11,26 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Calculate Age
+      - name: Calculate Detailed Age
         id: calc
         run: |
           BIRTHDAY="1993-07-16"
           NOW=$(date +%s)
           BIRTH=$(date -d "$BIRTHDAY" +%s)
-          SECONDS_IN_YEAR=31557600
-          AGE=$(echo "($NOW - $BIRTH) / $SECONDS_IN_YEAR" | bc)
-          echo "age=$AGE" >> $GITHUB_OUTPUT
+          DIFF=$((NOW - BIRTH))
+          
+          # Calculate years, months, days, and minutes
+          YEARS=$((DIFF / 31557600))
+          REMAINDER=$((DIFF % 31557600))
+          MONTHS=$((REMAINDER / 2629800))
+          REMAINDER=$((REMAINDER % 2629800))
+          DAYS=$((REMAINDER / 86400))
+          REMAINDER=$((REMAINDER % 86400))
+          MINUTES=$((REMAINDER / 60))
+          
+          AGE_STR="$YEARS years, $MONTHS months, $DAYS days, $MINUTES minutes"
+          echo "Calculated age is: $AGE_STR"
+          echo "age=$AGE_STR" >> $GITHUB_OUTPUT
 
       - name: Update README.md
         run: |
