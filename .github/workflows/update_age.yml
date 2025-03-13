@@ -3,7 +3,7 @@ name: Update Age
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs every day at midnight UTC
-  workflow_dispatch:     # Allows manual trigger
+  workflow_dispatch:     # Allows manual triggering
 
 jobs:
   update-age:
@@ -26,6 +26,7 @@ jobs:
           # Calculate age in whole years
           AGE=$(echo "($NOW - $BIRTH) / $SECONDS_IN_YEAR" | bc)
           echo "Calculated age is $AGE"
+          # Set the output using the new GitHub Actions method:
           echo "age=$AGE" >> $GITHUB_OUTPUT
 
       - name: Check if README.md exists
@@ -37,12 +38,17 @@ jobs:
             exit 1
           fi
 
+      - name: Debug - Show current README.md
+        run: cat README.md
+
       - name: Update README.md with current age
         run: |
           AGE=${{ steps.calculate_age.outputs.age }}
           echo "Updating README.md with age: $AGE"
-          # Replace the line starting with "My Age:" with the updated age.
-          sed -i "s/My Age: .*/My Age: $AGE/" README.md
+          # Use a regex anchored at the start of the line for a precise match.
+          sed -i "s/^My Age:.*/My Age: $AGE/" README.md
+          echo "After update, README.md is:"
+          cat README.md
 
       - name: Commit and Push Changes
         run: |
