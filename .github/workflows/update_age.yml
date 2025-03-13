@@ -57,7 +57,7 @@ jobs:
           git add README.md
           if ! git diff --cached --quiet; then
             git commit -m "Update age to ${{ steps.calculate_age.outputs.age }}"
-            git push
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
           else
             echo "No changes to commit"
           fi
