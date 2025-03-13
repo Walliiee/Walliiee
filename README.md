@@ -8,7 +8,7 @@ Prior to December 2024, I hadn't built anything and only had a foundational know
 Now I build stuff and I learn every darn day - and it's exactly how I want it to be.
 
 ## ✨ About Me
-I am 
+My Age: 0
 Father, husband and a great friend and a hint of too much empathy, that leads me to want to solve all of the worlds problems and help everybody I meet.
 Oh and then I like to learn. I like to explore. I like challenges.
 When I start something I go all in. I listen, read and do until I understand and then I keep iterating on that.
