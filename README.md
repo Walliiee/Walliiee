@@ -8,7 +8,7 @@ Prior to December 2024, I hadn't built anything and only had a foundational know
 Now I build stuff and I learn every darn day - and it's exactly how I want it to be.
 
 ## ✨ About Me
-My Age: 31 or is it??
+My Age: 31 years, 7 months, 27 days, 1031 minutes
 - Father, husband and a great friend and a hint of too much empathy, that leads me to want to solve all of the worlds problems and help everybody I meet.
 - Oh and then I like to learn.
 - I like to explore.
