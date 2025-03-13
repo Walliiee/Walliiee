@@ -1,11 +1,10 @@
+![Walliiee](https://github.com/user-attachments/assets/5173e146-1539-4ff9-aa8b-d746b3d2b5b0)
 # Hola, Mike, Mickey, Michael, Hulk, Thor, Walliiee or whatever suit you 👋
 
 If you're reading this, it's too late 
 
 Prior to december 2024, I hadn't built anything and only had a foundational knowledge of software development and design.
 Now I build stuff and I learn every darn day - and it's exactly how I want it to be.
-
-[Walliiee](https://github.com/user-attachments/assets/84d04e24-a7b2-4593-9362-8792e098d6b9)
 
 ## About Me ✨
 I'm a passionate [Your Role, e.g., "software developer", "data scientist", "open source enthusiast"] with a strong interest in [Your Interests, e.g., "web development", "machine learning", "cybersecurity"]. I love creating innovative solutions and collaborating on exciting projects. When I'm not coding, you'll find me [a fun fact or hobby, e.g., "exploring new technologies", "blogging about tech", or "playing guitar"].
