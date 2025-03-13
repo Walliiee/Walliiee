@@ -15,7 +15,7 @@ or am I?
 I'm a passionate [Your Role, e.g., "software developer", "data scientist", "open source enthusiast"] with a strong interest in [Your Interests, e.g., "web development", "machine learning", "cybersecurity"]. I love creating innovative solutions and collaborating on exciting projects. When I'm not coding, you'll find me [a fun fact or hobby, e.g., "exploring new technologies", "blogging about tech", or "playing guitar"].
 
 ## 🔧 Languages & Tools
-- **Languages:** Mostly Python, a bit of js and css. Also R but really no thank you...
+- **Languages:** Mostly ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/FastAPI?style=plastic&color=green), a bit of js and css. Also R but really no thank you...
 - **Frameworks & Libraries:** FE: React most, bit of Bootstrap. BE: Most FastAPI, a bit of Flask
 - **Tools:** Docker, Jupyter Notebook
 - **IDE:** Cursor & VSC
