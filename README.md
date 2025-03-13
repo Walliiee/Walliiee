@@ -16,8 +16,8 @@ My Age: 31 years, 7 months, 27 days, 1031 minutes or is it really??
 - When I start something I go all in. I listen, read and do until I understand and then I keep iterating on that.
 
 ## 🔧 Languages & Tools
-- **Languages:** Mostly ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/FastAPI?style=plastic&color=green), a bit of js and css. Also R but really no thank you...
-- **Frameworks & Libraries:** FE: React most, bit of Bootstrap. BE: Most FastAPI, a bit of Flask
+- **Languages:** Mostly ![Python](https://img.shields.io/badge/Python-3.9%2B-blue), a bit of js and css. Also R but really no thank you...
+- **Frameworks & Libraries:** FE: ![React](https://img.shields.io/badge/React-17.0.2-blue) most, bit of Bootstrap. BE: Most FastAPI, a bit of Flask
 - **Tools:** Docker, Jupyter Notebook
 - **IDE:** Cursor & VSC
 - **Other Interests:** [e.g., DevOps, Machine Learning, etc.]
@@ -50,3 +50,34 @@ My Age: 31 years, 7 months, 27 days, 1031 minutes or is it really??
 ---
 
 *I'm here, so are you! Why not make the most of it? Help me grow*
+
+
+```mermaid
+timeline
+  title My Journey USA
+  2012 : Leave for United States, Santa Barbara, CA, to play football
+  2014 : Finished AA Kinesiology
+  2015 : Moved to New Britain, CT to play for Blue Devils
+  2017 : Summer Internship at North Dakota State Bisons
+  2017 : Graduate Assistant at Saginaw Valley State University
+```
+
+```mermaid
+timeline
+  title My Journey Back Home
+  2018 : Back home to live in May and started my own company
+  2019 : Post Christmas met my wife
+  2020 : Fell in Love, Got pregnant
+  2021 : First kid + wedding
+  2022 : Second kid and wifey push me to change field
+```
+
+```mermaid
+timeline
+  title My Journey into IT
+  2022 : Fall start @ Economics & IT BA @ KEA
+  2022 : Started learning Python - didn't use it much
+  2025 : Started Internship @ KPMG NewTech
+  2025 : Built my first web app
+```
+
