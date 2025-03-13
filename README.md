@@ -9,7 +9,7 @@ Now I build stuff and I learn every darn day - and it's exactly how I want it to
 
 ## ✨ About Me
 I am 
-![Age](https://img.shields.io/badge/dynamic/json?url=https://age.shields.io/1995-03-13&query=%24.age&label=My%20Age&color=blueviolet) 
+![Age](https://img.shields.io/badge/dynamic/json?color=blue&label=My%20Age&query=%24.age&url=https://api.age-calculator.io/?birthdate=1993-07-16)
 or am I?
 
 I'm a passionate [Your Role, e.g., "software developer", "data scientist", "open source enthusiast"] with a strong interest in [Your Interests, e.g., "web development", "machine learning", "cybersecurity"]. I love creating innovative solutions and collaborating on exciting projects. When I'm not coding, you'll find me [a fun fact or hobby, e.g., "exploring new technologies", "blogging about tech", or "playing guitar"].
