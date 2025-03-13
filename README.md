@@ -8,9 +8,10 @@ Prior to December 2024, I hadn't built anything and only had a foundational know
 Now I build stuff and I learn every darn day - and it's exactly how I want it to be.
 
 ## ✨ About Me
-I am <span id="age"></span>
-
-I'm a passionate [Your Role, e.g., "software developer", "data scientist", "open source enthusiast"] with a strong interest in [Your Interests, e.g., "web development", "machine learning", "cybers[...]
+I am 
+Father, husband and a great friend and a hint of too much empathy, that leads me to want to solve all of the worlds problems and help everybody I meet.
+Oh and then I like to learn. I like to explore. I like challenges.
+When I start something I go all in. I listen, read and do until I understand and then I keep iterating on that.
 
 ## 🔧 Languages & Tools
 - **Languages:** Mostly ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/FastAPI?style=plastic&color=green), a bit of js and css. Also R but really no thank you...
@@ -47,24 +48,3 @@ I'm a passionate [Your Role, e.g., "software developer", "data scientist", "open
 ---
 
 *I'm here, so are you! Why not make the most of it? Help me grow*
-
-<script>
-  function calculateAge(birthdate) {
-    const now = new Date();
-    const birth = new Date(birthdate);
-    const diff = now - birth;
-    const age = new Date(diff);
-
-    const years = age.getUTCFullYear() - 1970;
-    const months = age.getUTCMonth();
-    const days = age.getUTCDate() - 1;
-
-    return `${years} years, ${months} months, and ${days} days`;
-  }
-
-  document.addEventListener("DOMContentLoaded", function() {
-    const ageElement = document.getElementById("age");
-    const birthdate = "1993-07-16"; // Replace with your birthdate
-    ageElement.textContent = calculateAge(birthdate);
-  });
-</script>
