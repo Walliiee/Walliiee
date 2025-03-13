@@ -15,17 +15,33 @@ jobs:
       - name: Calculate Age
         id: calculate_age
         run: |
+          # Set your birthdate (YYYY-MM-DD)
           BIRTHDAY="1993-07-16"
+          # Get current time in seconds since epoch
           NOW=$(date +%s)
+          # Convert birthday to seconds since epoch
           BIRTH=$(date -d "$BIRTHDAY" +%s)
+          # Approximate number of seconds in a year (365.25 days)
           SECONDS_IN_YEAR=31557600
+          # Calculate age in whole years
           AGE=$(echo "($NOW - $BIRTH) / $SECONDS_IN_YEAR" | bc)
           echo "Calculated age is $AGE"
           echo "age=$AGE" >> $GITHUB_OUTPUT
 
+      - name: Check if README.md exists
+        run: |
+          if [ -f README.md ]; then
+            echo "README.md found."
+          else
+            echo "ERROR: README.md not found!"
+            exit 1
+          fi
+
       - name: Update README.md with current age
         run: |
           AGE=${{ steps.calculate_age.outputs.age }}
+          echo "Updating README.md with age: $AGE"
+          # Replace the line starting with "My Age:" with the updated age.
           sed -i "s/My Age: .*/My Age: $AGE/" README.md
 
       - name: Commit and Push Changes
