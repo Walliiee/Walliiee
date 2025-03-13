@@ -1,0 +1,39 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  workflow_dispatch:     # Allows you to trigger the workflow manually
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Calculate Age
+        id: calculate_age
+        run: |
+          BIRTHDAY="1993-07-16"
+          NOW=$(date +%s)
+          BIRTH=$(date -d "$BIRTHDAY" +%s)
+          SECONDS_IN_YEAR=31557600
+          AGE=$(echo "($NOW - $BIRTH) / $SECONDS_IN_YEAR" | bc)
+          echo "Calculated age is $AGE"
+          echo "::set-output name=age::$AGE"
+
+      - name: Update README with current age
+        run: |
+          AGE=${{ steps.calculate_age.outputs.age }}
+          # Replace the line starting with "My Age:" with the updated age.
+          sed -i "s/My Age: .*/My Age: $AGE/" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          # Commit only if there are changes; otherwise, exit quietly.
+          git commit -m "Update age to ${{ steps.calculate_age.outputs.age }}" || echo "No changes to commit"
+          git push
