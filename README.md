@@ -12,7 +12,7 @@ Now I build stuff and I learn every darn day - and it's exactly how I want it to
 
 ## ✨ About Me
 My Age: 32 years, 6 months, 21 days, 604 minutes
-- Father, husband and a great friend and a hint of too much empathy, that leads me to want to solve all of the worlds problems and help everybody I meet.
+- Father and a great friend and a hint of too much empathy, that leads me to want to solve all of the worlds problems and help everybody I meet.
 - Oh and then I like to learn.
 - I like to explore.
 - I like challenges.
@@ -48,7 +48,7 @@ not the best not the worst
   Same
 
 - 🌱 I’m currently learning: How to build agents
-- ⚡ Fun fact: Before going into software development, I took a Bachelors in Exercise Science in the US and when I got back to Denmark I got certified as an outdoor instructor (Canoeing, SUP, Kay[...]
+- ⚡ Fun fact: Before going into IT, I took a BA in the US and when I got back to Denmark outdoorish
 
 ---
 
