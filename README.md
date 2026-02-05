@@ -1,5 +1,5 @@
 ![Walliiee](https://github.com/user-attachments/assets/5173e146-1539-4ff9-aa8b-d746b3d2b5b0)
-# Hola Mike, Mickey, Michael, Hulk, Thor, Walliiee or whatever suit you 👋
+# Hola Hulk, Thor, Walliiee or whatever suit you 👋
 
 If you're reading this, it's too late.
 **Great Listener, Always Curious, Challenge Seeker**
@@ -19,6 +19,7 @@ My Age: 32 years, 6 months, 21 days, 604 minutes
 - When I start something I go all in. I listen, read and do until I understand and then I keep iterating on that.
 
 ## 🔧 Languages & Tools
+not the best not the worst 
 - **Languages:** Mostly ![Python](https://img.shields.io/badge/Python-3.9%2B-blue), a bit of ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)   and ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white). Also ![R](https://img.shields.io/badge/R-4.0.5-blue?style=flat&logo=R) but really no thank you...
 - **Frameworks & Libraries:** FE: ![React](https://img.shields.io/badge/React-17.0.2-blue) most, bit of ![Bootstrap](https://img.shields.io/badge/Bootstrap-v5-blue?style=flat&logo=bootstrap). Most ![FastAPI](https://img.shields.io/badge/FastAPI-0.70.0-green?style=flat&logo=fastapi), a bit of ![Flask](https://img.shields.io/badge/Flask-2.0-lightgrey?style=flat&logo=flask)
 - **Tools:** ![Docker](https://img.shields.io/badge/Docker-20.10.8-blue?style=flat&logo=docker), ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter)
@@ -49,11 +50,6 @@ My Age: 32 years, 6 months, 21 days, 604 minutes
 - 🌱 I’m currently learning: How to build agents
 - ⚡ Fun fact: Before going into software development, I took a Bachelors in Exercise Science in the US and when I got back to Denmark I got certified as an outdoor instructor (Canoeing, SUP, Kay[...]
 
-## 📫 How to Reach Me 📫
-- **Email:** info@mikefit.dk & mkrohn@kpmg.com
-- **LinkedIn:** www.linkedin.com/in/mike-walliiee
-- **MS Learn:** https://learn.microsoft.com/en-us/users/mikemkrohn-9051/
-
 ---
 
 *I'm here, so are you! Why not make the most of it? Help me grow*
@@ -66,27 +62,27 @@ My Age: 32 years, 6 months, 21 days, 604 minutes
 ```mermaid
 timeline
   title My Journey USA
-  2012 : Leave for United States, Santa Barbara, CA, to play football
-  2014 : Finished AA Kinesiology
-  2015 : Moved to New Britain, CT to play for Blue Devils
-  2017 : Summer Internship at North Dakota State Bisons
-  2017 : Graduate Assistant at Saginaw Valley State University
+  2012 : Leave for United States, CA, to play football
+  2014 : AA Kinesiology
+  2015 : East Coast
+  2017 : Summer Internship
+  2017 : Graduate Assistant
 ```
 
 ```mermaid
 timeline
   title My Journey Back Home
-  2018 : Back home to live in May and started my own company
-  2019 : Post Christmas met my wife
-  2020 : Fell in Love, Got pregnant
-  2021 : First kid + wedding
-  2022 : Second kid and wifey push me to change field
+  2018 : Back home
+  2019 : Post Christmas
+  2020 : Fell in Lov
+  2021 : k
+  2022 : k
 ```
 
 ```mermaid
 timeline
   title My Journey into IT
-  2022 : Fall start @ Economics & IT BA @ KEA
+  2022 : Economics & IT
   2022 : Started learning Python - didn't use it much
   2025 : Started Internship @ KPMG NewTech
   2025 : Built my first web app
