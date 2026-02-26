@@ -11,7 +11,7 @@ Now I build stuff and I learn every darn day - and it's exactly how I want it to
 > – *Yoda*
 
 ## ✨ About Me
-My Age: 32 years, 7 months, 10 days, 1421 minutes
+My Age: 32 years, 7 months, 11 days, 1415 minutes
 - Father and a great friend and a hint of too much empathy, that leads me to want to solve all of the worlds problems and help everybody I meet.
 - Oh and then I like to learn.
 - I like to explore.
