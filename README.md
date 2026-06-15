@@ -12,7 +12,8 @@
 
 <!-- Contact / socials -->
 [![Email](https://img.shields.io/badge/Email-info@mikefit.dk-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info@mikefit.dk)
-[![Website](https://img.shields.io/badge/Website-mikefit.dk-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://mikefit.dk)
+[![Website](https://img.shields.io/badge/Website-mikekrohn.ai-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://mikekrohn.ai/)
+[![Challenger Crew](https://img.shields.io/badge/🚀_App-Challenger_Crew-7c3aed?style=flat-square)](https://www.challenger-crew.com/)
 <!-- TODO: add your LinkedIn handle below, then uncomment -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle) -->
 
@@ -73,7 +74,7 @@ Now I build stuff and I learn every darn day, and it's exactly how I want it to 
 | --- | --- | --- |
 | **Markets Models** | 6 RAG models, each with tailored system prompts & parameters | ✅ Built |
 | **Heatmap Project** | Visualizing GenAI conversation usage (Claude + ChatGPT) on a calendar heatmap with Plotly Calplot — plus embedding & clustering to classify conversation topics on upload | 🔒 Internal |
-| **Fitness Community App** | A community app for training & accountability | 🚧 In progress |
+| **[Challenger Crew](https://www.challenger-crew.com/)** | Fitness community app for training & accountability | 🟢 Live |
 | **Small Cap Analyzer Blog** | Analysis + writing on small-cap markets | 🚧 In progress |
 
 - 🌱 **Currently learning:** how to build agents
