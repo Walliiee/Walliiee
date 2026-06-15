@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hola+Hulk%2C+Thor%2C+Walliiee...+whatever+suits+you+%F0%9F%91%8B;Great+Listener+%C2%B7+Always+Curious+%C2%B7+Challenge+Seeker;Master+of+one%2C+Jack+of+many;Building+stuff+%26+learning+every+darn+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=55&lines=Hulk%2C+Thor%2C+Wall-E...+or+just+Walliiee+%F0%9F%91%8B;Great+Listener+%C2%B7+Always+Curious;Challenge+Seeker+%C2%B7+Master+of+one%2C+Jack+of+many;Building+stuff+%26+learning+every+darn+day)](https://git.io/typing-svg)
 
 **🧠 GenAI / RAG builder · 🏗️ shipping fitness + fintech side projects · ☕ coffee & sourdough at 100%, everything else at 80%**
 
