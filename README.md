@@ -6,7 +6,7 @@
 <!-- Animated typing header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hola+Hulk%2C+Thor%2C+Walliiee...+whatever+suits+you+%F0%9F%91%8B;Great+Listener+%C2%B7+Always+Curious+%C2%B7+Challenge+Seeker;Master+of+one%2C+Jack+of+many;Building+stuff+%26+learning+every+darn+day)](https://git.io/typing-svg)
 
-**🧠 GenAI / RAG builder · 🏗️ shipping fitness + fintech side projects · ☕ coffee &amp; sourdough at 100%, everything else at 80%**
+**🧠 GenAI / RAG builder · 🏗️ shipping fitness + fintech side projects · ☕ coffee & sourdough at 100%, everything else at 80%**
 
 <br/>
 
@@ -41,7 +41,7 @@ Now I build stuff and I learn every darn day, and it's exactly how I want it to 
 > “Master of one, Jack of many.”
 > – *ME*
 
-## 🔧 Languages &amp; Tools
+## 🔧 Languages & Tools
 
 <sub>not the best, not the worst — just shipping</sub>
 
@@ -59,7 +59,7 @@ Now I build stuff and I learn every darn day, and it's exactly how I want it to 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Tools &amp; Environment**
+**Tools & Environment**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
@@ -71,9 +71,9 @@ Now I build stuff and I learn every darn day, and it's exactly how I want it to 
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| **Markets Models** | 6 RAG models, each with tailored system prompts &amp; parameters | ✅ Built |
-| **Heatmap Project** | Visualizing GenAI conversation usage (Claude + ChatGPT) on a calendar heatmap with Plotly Calplot — plus embedding &amp; clustering to classify conversation topics on upload | 🔒 Internal |
-| **Fitness Community App** | A community app for training &amp; accountability | 🚧 In progress |
+| **Markets Models** | 6 RAG models, each with tailored system prompts & parameters | ✅ Built |
+| **Heatmap Project** | Visualizing GenAI conversation usage (Claude + ChatGPT) on a calendar heatmap with Plotly Calplot — plus embedding & clustering to classify conversation topics on upload | 🔒 Internal |
+| **Fitness Community App** | A community app for training & accountability | 🚧 In progress |
 | **Small Cap Analyzer Blog** | Analysis + writing on small-cap markets | 🚧 In progress |
 
 - 🌱 **Currently learning:** how to build agents
