@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Why don't eggs tell jokes? They'd crack each other up.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Whoever invented the knock-knock joke should get a no bell prize.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
