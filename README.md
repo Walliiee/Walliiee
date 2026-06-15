@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hola+Hulk%2C+Thor%2C+Walliiee...+whatever+suits+you+%F0%9F%91%8B;Great+Listener+%C2%B7+Always+Curious+%C2%B7+Challenge+Seeker;Master+of+one%2C+Jack+of+many;Building+stuff+%26+learning+every+darn+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&height=55&lines=Hulk%2C+Thor%2C+Wall-E...+or+just+Walliiee+%F0%9F%91%8B%3BGreat+Listener+%C2%B7+Always+Curious%3BChallenge+Seeker+%C2%B7+Master+of+one%2C+Jack+of+many%3BBuilding+stuff+%26+learning+every+darn+day)](https://git.io/typing-svg)
 
 **🧠 GenAI / RAG builder · 🏗️ shipping fitness + fintech side projects · ☕ coffee & sourdough at 100%, everything else at 80%**
 
@@ -14,6 +14,14 @@
 [![Email](https://img.shields.io/badge/Email-info@mikefit.dk-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info@mikefit.dk)
 [![Website](https://img.shields.io/badge/Website-mikekrohn.ai-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://mikekrohn.ai/)
 [![Challenger Crew](https://img.shields.io/badge/🚀_App-Challenger_Crew-7c3aed?style=flat-square)](https://www.challenger-crew.com/)
+
+<br/>
+
+<!-- Flavor / "powered by" badges -->
+![Fueled by](https://img.shields.io/badge/Fueled_by-%E2%98%95_+_%F0%9F%8D%9E_sourdough-6F4E37?style=flat-square)
+![80/20 certified](https://img.shields.io/badge/80%2F20-certified-2EA44F?style=flat-square)
+![Dad mode](https://img.shields.io/badge/Dad_mode-ON-3FB950?style=flat-square)
+![All in](https://img.shields.io/badge/When_I_start-I_go_all_in-58A6FF?style=flat-square)
 <!-- TODO: add your LinkedIn handle below, then uncomment -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle) -->
 
@@ -99,6 +107,16 @@ timeline
     2025 : Internship @ KPMG NewTech · shipped my first web app
 ```
 
+## 🃏 Dad Joke of the Day
+
+<div align="center">
+
+<em><!--START_DADJOKE-->Why don't eggs tell jokes? They'd crack each other up.<!--END_DADJOKE--></em>
+
+<sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
+
+</div>
+
 ## 📊 GitHub in Numbers
 
 <div align="center">
@@ -107,6 +125,12 @@ timeline
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Walliiee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Walliiee&theme=tokyonight&hide_border=true)
+
+<!-- Contribution activity over time -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Walliiee&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+<!-- Achievement trophies -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Walliiee&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Contribution snake — activates after the "Generate Snake" Action runs once -->
 <picture>
