@@ -1,0 +1,50 @@
+name: Dad Joke of the Day
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # Daily at 06:00 UTC
+  workflow_dispatch:        # Allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  dad-joke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch a fresh dad joke
+        run: |
+          curl -s -H "Accept: text/plain" https://icanhazdadjoke.com/ > joke.txt
+          echo "Fetched joke:"
+          cat joke.txt
+
+      - name: Inject joke into README
+        run: |
+          python3 - <<'PY'
+          import re, pathlib
+          joke = pathlib.Path('joke.txt').read_text().strip() or \
+              "Why don't dad jokes ever fail? They're pun-stoppable."
+          readme = pathlib.Path('README.md').read_text()
+          new = re.sub(
+              r'(<!--START_DADJOKE-->).*?(<!--END_DADJOKE-->)',
+              lambda m: m.group(1) + joke + m.group(2),
+              readme,
+              flags=re.S,
+          )
+          pathlib.Path('README.md').write_text(new)
+          PY
+          rm -f joke.txt
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update dad joke of the day"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+          else
+            echo "No change to commit"
+          fi
