@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Whoever invented the knock-knock joke should get a no bell prize.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->How did Darth Vader know what Luke was getting for Christmas? He felt his presents.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
