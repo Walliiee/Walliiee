@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Which is the fastest growing city in the world? Dublin'<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Why was Santa's little helper feeling depressed? Because he has low elf esteem.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
