@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What do you call a magician who has lost their magic? Ian.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Why did the opera singer go sailing? They wanted to hit the high Cs.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
