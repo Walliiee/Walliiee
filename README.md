@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Why did the opera singer go sailing? They wanted to hit the high Cs.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->People who don't eat gluten are really going against the grain.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
