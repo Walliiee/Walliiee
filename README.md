@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->People who don't eat gluten are really going against the grain.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Why did the coffee file a police report? It got mugged.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
