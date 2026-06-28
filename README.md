@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Why was the picture sent to prison? It was framed.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->How do you teach a kid to climb stairs? There is a step by step guide.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
