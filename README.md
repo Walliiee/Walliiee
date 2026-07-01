@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Why do we tell actors to “break a leg?” Because every play has a cast.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->How come a man driving a train got struck by lightning? He was a good conductor.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
