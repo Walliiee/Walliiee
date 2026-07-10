@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->There are two types of people in this world, those who can extrapolate from incomplete data...<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Why did the m&m go to school? Because it wanted to be a Smartie!<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
