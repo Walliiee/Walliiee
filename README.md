@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Why did the m&m go to school? Because it wanted to be a Smartie!<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->A book just fell on my head. I only have my shelf to blame.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
