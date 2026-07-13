@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Can February march? No, but April may.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
