@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Why did the sentence fail the driving test? It never came to a full stop.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
