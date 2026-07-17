@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->How do robots eat guacamole? With computer chips.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
