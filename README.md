@@ -39,7 +39,7 @@ Now I build stuff and I learn every darn day, and it's exactly how I want it to 
 
 ## ✨ About Me
 
-🎂 **Age:** <!--START_AGE-->33 years, 0 months, 3 days, 1275 minutes<!--END_AGE--> &nbsp;<sub>↑ auto-updated daily by a GitHub Action, because why round? 🤖</sub>
+🎂 **Age:** <!--START_AGE-->33 years, 0 months, 4 days, 1165 minutes<!--END_AGE--> &nbsp;<sub>↑ auto-updated daily by a GitHub Action, because why round? 🤖</sub>
 
 - 👨‍👧 Father, good friend, and carrier of *a hint of too much empathy* — which makes me want to solve all of the world's problems and help everybody I meet.
 - 🧭 I like to **learn**, I like to **explore**, and I like a good **challenge**.
