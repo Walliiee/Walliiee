@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->I was wondering why the frisbee was getting bigger, then it hit me.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
