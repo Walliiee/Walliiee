@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->"I'm sorry." "Hi sorry, I'm dad"<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->I have kleptomania, but when it gets bad, I take something for it.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
