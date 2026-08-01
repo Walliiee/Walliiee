@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->The best time on a clock is 6:30--hands down.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->What type of music do balloons hate? Pop music!<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
