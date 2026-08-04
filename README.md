@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->How do hens stay fit? They always egg-cercise!<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->What do you call a criminal going down the stairs? Condescending<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
