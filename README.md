@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->A bartender broke up with her boyfriend, but he kept asking her for another shot.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Where do bees go to the bathroom?  The BP station.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
