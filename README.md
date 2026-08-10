@@ -111,8 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What do you do when you see a space man?
-Park your car, man.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->What did the Zen Buddist say to the hotdog vendor? Make me one with everything.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
