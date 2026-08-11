@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What did the Zen Buddist say to the hotdog vendor? Make me one with everything.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
