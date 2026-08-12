@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->People are making apocalypse jokes like there’s no tomorrow.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
