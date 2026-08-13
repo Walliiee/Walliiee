@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->People are making apocalypse jokes like there’s no tomorrow.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->How do robots eat guacamole? With computer chips.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
