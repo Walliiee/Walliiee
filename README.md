@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Why couldn't the kid see the pirate movie? Because it was rated arrr!<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Sore throats are a pain in the neck!<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
