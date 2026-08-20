@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What do you call a pig that knows karate? A pork chop!<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->I'm glad I know sign language, it's pretty handy.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
