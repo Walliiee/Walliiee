@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I'm glad I know sign language, it's pretty handy.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
