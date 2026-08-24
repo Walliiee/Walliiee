@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Have you ever heard of a music group called Cellophane? They mostly wrap.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->The first time I got a universal remote control I thought to myself, "This changes everything"<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
