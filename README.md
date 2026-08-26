@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->There are two types of people in this world, those who can extrapolate from incomplete data...<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
