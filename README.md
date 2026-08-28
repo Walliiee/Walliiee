@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Is there a hole in your shoe? No… Then how’d you get your foot in it?<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
