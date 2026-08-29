@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->A book just fell on my head. I only have my shelf to blame.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
