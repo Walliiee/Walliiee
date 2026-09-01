@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I ordered a chicken and an egg from Amazon. I'll let you know.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->When you have a bladder infection, urine trouble.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
