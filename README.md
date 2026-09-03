@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
