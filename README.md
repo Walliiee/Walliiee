@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
