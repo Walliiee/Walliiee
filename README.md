@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->How many bones are in the human hand? A handful of them.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->What kind of bagel can fly? A plain bagel.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
