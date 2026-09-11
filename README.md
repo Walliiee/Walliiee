@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What kind of bagel can fly? A plain bagel.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
