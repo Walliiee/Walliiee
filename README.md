@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->How do you fix a broken pizza? With tomato paste.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
