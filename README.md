@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->It was raining cats and dogs the other day. I almost stepped in a poodle.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
