@@ -111,9 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What is the difference between ignorance and apathy?
-
-I don't know and I don't care.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Did you know that protons have mass? I didn't even know they were catholic.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
