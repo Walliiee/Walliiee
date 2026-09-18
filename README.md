@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Did you know that protons have mass? I didn't even know they were catholic.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->What do prisoners use to call each other? Cell phones.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
