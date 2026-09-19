@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What do prisoners use to call each other? Cell phones.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->What do you call a fat psychic? A four-chin teller.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
