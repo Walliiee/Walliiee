@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What do you call a fat psychic? A four-chin teller.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->“My Dog has no nose.” “How does he smell?” “Awful”<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
