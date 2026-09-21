@@ -111,7 +111,11 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->“My Dog has no nose.” “How does he smell?” “Awful”<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->A panda walks into a bar and says to the bartender “I’ll have a Scotch and . . . . . . . . . . . . . . Coke thank you”. 
+
+“Sure thing” the bartender replies and asks “but what’s with the big pause?” 
+
+The panda holds up his hands and says “I was born with them”<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
