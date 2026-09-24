@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
