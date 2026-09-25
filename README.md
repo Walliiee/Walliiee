@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
