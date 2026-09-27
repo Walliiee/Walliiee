@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What happens to a frog's car when it breaks down? It gets toad.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
