@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I started a new business making yachts in my attic this year...the sails are going through the roof<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Coffee has a tough time at my house, every morning it gets mugged.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
