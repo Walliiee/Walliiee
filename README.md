@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Coffee has a tough time at my house, every morning it gets mugged.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->They tried to make a diamond shaped like a duck. It quacked under the pressure.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
