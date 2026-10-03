@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I wish I could clean mirrors for a living. It's just something I can see myself doing.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
