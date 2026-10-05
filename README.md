@@ -111,7 +111,9 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->How do you fix a damaged jack-o-lantern? You use a pumpkin patch.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
