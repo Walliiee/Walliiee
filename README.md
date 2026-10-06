@@ -111,9 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->I just got fired from a florist, apparently I took too many leaves.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
