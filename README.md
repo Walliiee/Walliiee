@@ -111,7 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I just got fired from a florist, apparently I took too many leaves.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->There’s a new type of broom out, it’s sweeping the nation.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
