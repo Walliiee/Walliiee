@@ -111,7 +111,9 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->There’s a new type of broom out, it’s sweeping the nation.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Where was the Declaration of Independence signed?
+
+At the bottom!<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
