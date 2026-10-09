@@ -111,9 +111,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Where was the Declaration of Independence signed?
-
-At the bottom!<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->What animal is always at a game of cricket? A bat.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
