@@ -1,0 +1,51 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:     # Allows manual triggering
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Calculate Detailed Age
+        id: calc
+        run: |
+          BIRTHDAY="1993-07-16"
+          NOW=$(date +%s)
+          BIRTH=$(date -d "$BIRTHDAY" +%s)
+          DIFF=$((NOW - BIRTH))
+          
+          # Calculate years, months, days, and minutes
+          YEARS=$((DIFF / 31557600))
+          REMAINDER=$((DIFF % 31557600))
+          MONTHS=$((REMAINDER / 2629800))
+          REMAINDER=$((REMAINDER % 2629800))
+          DAYS=$((REMAINDER / 86400))
+          REMAINDER=$((REMAINDER % 86400))
+          MINUTES=$((REMAINDER / 60))
+          
+          AGE_STR="$YEARS years, $MONTHS months, $DAYS days, $MINUTES minutes"
+          echo "Calculated age is: $AGE_STR"
+          echo "age=$AGE_STR" >> $GITHUB_OUTPUT
+
+      - name: Update README.md
+        run: |
+          AGE="${{ steps.calc.outputs.age }}"
+          # Replace only the value between the markers, preserving surrounding markdown
+          sed -i "s|<!--START_AGE-->.*<!--END_AGE-->|<!--START_AGE-->${AGE}<!--END_AGE-->|" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update age to ${{ steps.calc.outputs.age }}"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+          else
+            echo "No changes to commit"
+          fi
