@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I accidentally took my cats meds last night. Don’t ask meow.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->How do hens stay fit? They always egg-cercise!<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
