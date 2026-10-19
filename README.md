@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Why did the kid throw the clock out the window? He wanted to see time fly!<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->I asked a frenchman if he played video games. He said "Wii"<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
