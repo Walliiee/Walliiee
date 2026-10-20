@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I asked a frenchman if he played video games. He said "Wii"<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Where do sheep go to get their hair cut? The baa-baa shop.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
