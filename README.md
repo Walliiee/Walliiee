@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Where do sheep go to get their hair cut? The baa-baa shop.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->What do you call a magician who has lost their magic? Ian.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
