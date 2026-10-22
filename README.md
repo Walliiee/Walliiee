@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What do you call a magician who has lost their magic? Ian.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->What's blue and not very heavy?  Light blue.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
