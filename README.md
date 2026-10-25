@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Never take advice from electrons. They are always negative.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Man, I really love my furniture... me and my recliner go way back.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
