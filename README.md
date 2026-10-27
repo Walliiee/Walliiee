@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Why did the kid cross the playground? To get to the other slide.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
