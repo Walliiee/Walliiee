@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Why did the kid cross the playground? To get to the other slide.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Why does Superman get invited to dinners? Because he is a Supperhero.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
