@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Why does Superman get invited to dinners? Because he is a Supperhero.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Did you hear about the guy whose whole left side was cut off? He's all right now.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
