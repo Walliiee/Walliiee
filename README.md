@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Whiteboards ... are remarkable.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->what do you call a dog that can do magic tricks? a labracadabrador<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
