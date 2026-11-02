@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->New atoms frequently lose electrons when they fail to keep an ion them.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
