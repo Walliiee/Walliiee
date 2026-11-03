@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->New atoms frequently lose electrons when they fail to keep an ion them.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
