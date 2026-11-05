@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Did you hear about the Mexican train killer? He had loco motives<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->What’s Forest Gump’s Facebook password? 1forest1<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
