@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I used to work in a shoe recycling shop. It was sole destroying.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->I used to think I was indecisive, but now I'm not sure.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
