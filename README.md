@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->What’s the advantage of living in Switzerland? Well, the flag is a big plus.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
