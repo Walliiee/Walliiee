@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What’s the advantage of living in Switzerland? Well, the flag is a big plus.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->How many apples grow on a tree? All of them!<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
