@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->How many apples grow on a tree? All of them!<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Did you hear about the campsite that got visited by Bigfoot? It got in tents.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
