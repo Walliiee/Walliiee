@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I knew a guy who collected candy canes, they were all in mint condition<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->I went to the doctor today and he told me I had type A blood but it was a type O.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
