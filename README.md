@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I went to the doctor today and he told me I had type A blood but it was a type O.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->My boss told me to attach two pieces of wood together... I totally nailed it!<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
