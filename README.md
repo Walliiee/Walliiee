@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->It's difficult to say what my wife does, she sells sea shells by the sea shore.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
