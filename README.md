@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->It's difficult to say what my wife does, she sells sea shells by the sea shore.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Why did the belt go to prison? He held up a pair of pants!<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
