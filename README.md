@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Why didn’t the skeleton cross the road? Because he had no guts.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->which flower is most fierce? Dandelion<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
