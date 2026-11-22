@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->which flower is most fierce? Dandelion<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Milk is also the fastest liquid on earth – its pasteurized before you even see it<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
