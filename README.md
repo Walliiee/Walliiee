@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->Milk is also the fastest liquid on earth – its pasteurized before you even see it<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->Do you know where you can get chicken broth in bulk? The stock market.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
