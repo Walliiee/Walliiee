@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What do I look like? A JOKE MACHINE!?<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->They're making a movie about clocks. It's about time<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
