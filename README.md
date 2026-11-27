@@ -110,7 +110,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->What did the Buffalo say to his little boy when he dropped him off at school? Bison.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->I decided to sell my Hoover… well it was just collecting dust.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖 — sorry in advance</sub>
 
