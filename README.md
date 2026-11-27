@@ -62,13 +62,15 @@ My company brain runs on [GBrain](https://github.com/garrytan/gbrain) every day.
 - [#4926](https://github.com/garrytan/gbrain/pull/4926) dream: transcripts skipped by `exclude_patterns` now say so instead of vanishing silently
 - [#4925](https://github.com/garrytan/gbrain/pull/4925) minions: a subagent tool call with a missing required parameter now names it instead of crashing
 
-**Reported and fixed** (13 issues, all closed as done), for example:
+**Reported and fixed:** 10 of the issues I filed are fixed on master, for example:
 
 - [#960](https://github.com/garrytan/gbrain/issues/960) per-OAuth-client source scoping, so several agents can share one brain without reading each other's sources
-- [#7969](https://github.com/garrytan/gbrain/issues/7969) native knowledge gaps: a page declares what it doesn't know, with stable ids and an answer/review loop
+- [#5213](https://github.com/garrytan/gbrain/issues/5213) `cycle.propose_takes.types`, so the dream cycle only proposes takes from the page types you pick
 - [#5211](https://github.com/garrytan/gbrain/issues/5211) / [#5212](https://github.com/garrytan/gbrain/issues/5212) the dream cycle's anti-loop guard couldn't see its own output
 - [#1840](https://github.com/garrytan/gbrain/issues/1840) `frontmatter install-hook` shipped a broken regex and did nothing on every commit
 - [all of them →](https://github.com/garrytan/gbrain/issues?q=is%3Aissue+author%3AWalliiee)
+
+**In Ideas:** [native knowledge gaps](https://github.com/garrytan/gbrain/discussions/8305) and [`eval suspected-contradictions --source`](https://github.com/garrytan/gbrain/discussions/8278), moved to Discussions for upvotes.
 
 **Open:** [#9820](https://github.com/garrytan/gbrain/issues/9820) an opt-in Message Batches route (half price) with prompt caching for the dream, facts and eval calls.
 
