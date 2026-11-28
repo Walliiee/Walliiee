@@ -152,7 +152,7 @@ timeline
 
 <div align="center">
 
-<em><!--START_DADJOKE-->I decided to sell my Hoover… well it was just collecting dust.<!--END_DADJOKE--></em>
+<em><!--START_DADJOKE-->At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.<!--END_DADJOKE--></em>
 
 <sub>↑ a fresh one served daily by a GitHub Action 🤖, sorry in advance</sub>
 
